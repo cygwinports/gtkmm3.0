@@ -1,5 +1,5 @@
 category: Gnome
-requires: libgtkmm3.0_1 libatkmm1.6-devel libcairomm1.0-devel libgdk_pixbuf2.0-devel libglib2.0-devel libglibmm2.4-devel libgtk3.0-devel libpangomm1.4-devel libsigc2.0-devel libstdc++6-devel
+requires: libgtkmm3.0_1 libatkmm1.6-devel libcairomm1.0-devel libgdk_pixbuf2.0-devel libglib2.0-devel libglibmm2.4-devel libgtk3-devel libpangomm1.4-devel libsigc2.0-devel libstdc++6-devel
 external-source: gtkmm3.0
 sdesc: "C++ bindings for gtk+-3.x (development)"
 ldesc: "gtkmm is the official C++ interface for the popular GUI library 
