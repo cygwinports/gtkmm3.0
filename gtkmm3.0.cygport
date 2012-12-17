@@ -1,8 +1,10 @@
 inherit gtkmm
 
+NAME="gtkmm3.0"
+VERSION=3.6.0
+RELEASE=1
+
 PKG_NAMES="lib${PN}_1 lib${PN}-devel lib${PN}-doc"
 libgtkmm3_0_1_CONTENTS="usr/bin/cygg?kmm-3.0-1.dll usr/share/doc/${PN}/"
 libgtkmm3_0_devel_CONTENTS="usr/include/ usr/lib/"
 libgtkmm3_0_doc_CONTENTS="usr/share/devhelp/ usr/share/doc/gtkmm-3.0/"
-
-KEEP_LA_FILES="none"
