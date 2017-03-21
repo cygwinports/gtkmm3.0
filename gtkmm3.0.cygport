@@ -1,7 +1,7 @@
 inherit gtkmm
 
 NAME="gtkmm3.0"
-VERSION=3.18.1
+VERSION=3.22.0
 RELEASE=1
 CATEGORY="Libs"
 SUMMARY="C++ bindings for gtk+-3.x"
